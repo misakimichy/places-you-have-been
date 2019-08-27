@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+form, p {
+    font-size: 18px;
+}
+
+.btn {
+    display: block;
+    margin: 10px auto;
+}
+
+.places-title {
+    display: none;
+}
+
+#result {
+    display: none;
+}
