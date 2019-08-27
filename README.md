@@ -1,6 +1,6 @@
 # Places You Have Been
 
-#### Intermediate JavaScript - Places You Have Been, 8/26/2019_
+#### Intermediate JavaScript - _Places You Have Been, 8/26/2019_
 
 ## Description
 Build a website of Places You Have Been (using HTML, CSS, Bootstrap, JavaScript and jQuery)
@@ -10,7 +10,7 @@ Create a website where you can keep track of all the places you've been.
 Complete the business logic for your place object first, before tackling the user interface. 
 
 ## Website should have:
-- Each destination should be an object with multiple properties, like location, landmarks, time of year, notes, etc. 
+- Each destination should be an object with multiple properties, city, country, visited year and favorite spot. 
 
 - Display those properties when a user clicks on a place's name.
 
@@ -31,7 +31,7 @@ Complete the business logic for your place object first, before tackling the use
  misaki.koonce@gmail.com
 
 ## Technologies Used
-_Git GitHub  HTML CSS Bootstrap jQuery and JavaScript
+Git GitHub HTML CSS Bootstrap jQuery and JavaScript
 
 
 ## License
